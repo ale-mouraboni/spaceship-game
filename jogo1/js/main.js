@@ -10,6 +10,14 @@ function start() { // Inicio da função start()
 //Principais variáveis do jogo
 	
 var jogo = {}
+
+var TECLA = {
+	W: 87,
+	S: 83,
+	D: 68
+	}
+
+	jogo.pressionou = [];
 	
 //Game Loop
 
