@@ -1,7 +1,7 @@
 <h1 align="center">Spaceship Game</h1>
 
   <p align="center">
-<img src="https://github.com/ale-mouraboni/spaceship-game/blob/main/assets/readme/spaceship-game.gif">
+<img src="https://github.com/ale-mouraboni/spaceship-game/blob/main/jogo1/readme/spaceship-game.gif">
   </p>
 
 <p align="center">Esse projeto foi desenvolvido com base no Bootcamp <strong> JavaScript Game Developer</strong> da plataforma <a href="https://digitalinnovation.one/">Digital Innovation One.</a></p>
