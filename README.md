@@ -33,7 +33,7 @@
 
 ```
 #1 - Clone o repositório
-$ git clone https://github.com/ale-mouraboni/dino-game.git
+$ git clone https://github.com/ale-mouraboni/spaceship-game.git
 
 #2 - Abra o index.html
 
