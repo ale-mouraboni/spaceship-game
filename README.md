@@ -32,7 +32,7 @@ git clone https://github.com/ale-mouraboni/spaceship-game.git
   
 Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
   
-[Baixar Projeto](https://github.com/ale-mouraboni/spaceship-game/archive/refs/heads/main.zip)
+* [Baixar Projeto](https://github.com/ale-mouraboni/spaceship-game/archive/refs/heads/main.zip)
 
 ---
 
