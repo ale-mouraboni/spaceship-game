@@ -9,20 +9,14 @@ Um jogo bem simples desenvolvido em JavaScript, o objetivo do jogo é resgatar o
 
 </div>
 
----
-
 #### Link da Plataforma:
 
 * [Digital Innovation One](https://digitalinnovation.one/)
-
----
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * JavaScript
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
